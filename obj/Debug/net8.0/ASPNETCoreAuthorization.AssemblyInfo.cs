@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPNETCoreAuthorization")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd9aab0be6e413203b10ae11c0f6b20a4e1d8c2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPNETCoreAuthorization")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPNETCoreAuthorization")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -143,7 +143,7 @@ public class MyRequirement : IAuthorizationRequirement{}
 
 public class MyRequirementHandler : AuthorizationHandler<MyRequirement>
 {
-    public MyRequirementHandler (Parameters)
+    public MyRequirementHandler ()
     {
         
     }

@@ -28,3 +28,4 @@ C:\Users\George Too\source\repos\ASPNETCoreAuthorization\obj\Debug\net8.0\refint
 C:\Users\George Too\source\repos\ASPNETCoreAuthorization\obj\Debug\net8.0\ASPNETCoreAuthorization.pdb
 C:\Users\George Too\source\repos\ASPNETCoreAuthorization\obj\Debug\net8.0\ASPNETCoreAuthorization.genruntimeconfig.cache
 C:\Users\George Too\source\repos\ASPNETCoreAuthorization\obj\Debug\net8.0\ref\ASPNETCoreAuthorization.dll
+C:\Users\George Too\source\repos\ASPNETCoreAuthorization\obj\Debug\net8.0\ASPNETCoreAuthorization.sourcelink.json
